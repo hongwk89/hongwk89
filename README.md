@@ -6,7 +6,7 @@
 
 ## 🙋 About Me
 
-- 🔭 웹 프론트엔드 개발 경력 **약 11년**
+- 🔭 웹 프론트엔드 개발 경력 **약 10년**
 - 🌏 미국 및 일본 IT 업무 경험 보유
 - 💬 영어 · 일본어 기본 회화 가능
 - 📍 서울 용산구 거주
@@ -33,7 +33,7 @@
 
 | 기간 | 회사 | 역할 |
 |------|------|------|
-| 2024.01 ~ | 에이아이썸 | 웹개발팀 선임연구원 (프론트엔드 총괄) |
+| 2024.01 ~ 2025.05 | 에이아이썸 | 웹개발팀 선임연구원 (프론트엔드 총괄) |
 | 2023.06 ~ 2023.12 | 루커스 | 프리랜서 프론트엔드 개발 |
 | 2022.06 ~ 2023.06 | 미아트레이딩 | 프론트엔드 개발 (대리) |
 | 2018.10 ~ 2022.05 | 해커스 | 프론트엔드 개발 (사원) |
@@ -47,6 +47,10 @@
 |----------|------|----------|
 | [sisterhong](https://github.com/hongwk89/sisterhong) | 정육 쇼핑몰 프론트엔드 단독 개발 | Next.js, TypeScript, Zustand, SWR |
 | [billenge](https://github.com/hongwk89/billenge) | 챌린지 플랫폼 사이드 프로젝트 | Next.js, TypeScript, Tailwind, React Query |
+| [myscoop](https://github.com/hongwk89/myscoop) | 사이드 프로젝트 | Next.js 15, TypeScript, Tailwind CSS |
+| [viscuit](https://github.com/hongwk89/viscuit) | 사이드 프로젝트 | Next.js, TypeScript, Styled Components, Stripe, Zustand |
+| [MCE](https://github.com/hongwk89/MCE) | 개인 포트폴리오 CMS 웹사이트 (풀스택 단독 개발) | PHP, MySQL, HTML5, CSS3, JavaScript |
+| [o-issue](https://github.com/hongwk89/o-issue) | 커뮤니티/댓글 서비스 | PHP, CSS, JavaScript |
 
 ---
 
