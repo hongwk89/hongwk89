@@ -51,6 +51,7 @@
 | [viscuit](https://github.com/hongwk89/viscuit) | AI 상품 매칭 SaaS 플랫폼 프론트엔드 (에이아이썸) | Next.js, TypeScript, Styled Components, Stripe, Zustand |
 | [MCE](https://github.com/hongwk89/MCE) | 개인 포트폴리오 CMS 웹사이트 (풀스택 단독 개발) | PHP, MySQL, HTML5, CSS3, JavaScript |
 | [o-issue](https://github.com/hongwk89/o-issue) | 커뮤니티/댓글 서비스 | PHP, CSS, JavaScript |
+| [ai-listing](https://github.com/hongwk89/ai-listing) | 이커머스 판매자를 위한 AI 상품 카피 자동 생성 웹앱 | React 19, TypeScript, Vite, Tailwind CSS, Claude API |
 
 ---
 
